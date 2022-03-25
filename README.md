@@ -3,7 +3,7 @@ I'm a PhD student studying Mathematics at Emory University.
 
 Check out [my website](http://www.math.emory.edu/~ckeyes3/index.html)! There you can find
 - [my research interests and papers](http://www.math.emory.edu/~ckeyes3/research.html),
-- [my CV](http://www.math.emory.edu/~ckeyes3/Keyes_CV.pdf),
+- [my CV](http://www.math.emory.edu/~ckeyes3/files/Keyes_CV.pdf),
 - my contact information,
 - and more!
 
